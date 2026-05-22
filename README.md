@@ -1,4 +1,4 @@
-### An automated photo and video uploader from Quest to Telegram
+### An automated photo and video uploader from Meta Quest to Telegram
 
 ## Features
 * **100% Automatic:** Snap a screenshot or clip a video in-game, and it lands in your Telegram chat seconds later.
